@@ -1,0 +1,4 @@
+create envrioment in anaconde 
+activate 
+download VTK: conda install -c anaconda vtk
+run main.py
