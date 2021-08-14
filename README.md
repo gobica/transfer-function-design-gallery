@@ -5,7 +5,7 @@
 <p class="has-line-data" data-line-start="9" data-line-end="10">
   
  
- ![alt text](https://github.com/gobica/transfer-function-design-gallery/blob/main/gallery-first-iteration.PNG "Design gallery1"  | width=300)
+ ![alt text](https://github.com/gobica/transfer-function-design-gallery/blob/main/gallery-first-iteration.PNG "Design gallery1" )
 
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="Prerequisites_11"></a>Prerequisites</h2>
 <ul>
@@ -18,5 +18,5 @@
 <p class="has-line-data" data-line-start="19" data-line-end="20">
  
   
-   ![alt text](https://github.com/gobica/transfer-function-design-gallery/blob/main/rendered.PNG "Rendered model"  | width=300)
+   ![alt text](https://github.com/gobica/transfer-function-design-gallery/blob/main/rendered.PNG "Rendered model" )
 
